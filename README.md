@@ -1,0 +1,2 @@
+# studentMangementplatform
+developed using java
